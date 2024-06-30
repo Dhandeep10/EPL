@@ -34,20 +34,11 @@ To run the project locally, follow these steps:
 
 ## Usage
 
-- **Data Collection:** Modify `scrape.py` to scrape additional data or update existing data.
-- **Model Training:** Explore different machine learning algorithms in `train.py`.
-- **Prediction:** Use `predict.py` to predict match outcomes based on current season data.
+- **Data Collection:** Modify `eplData.ipynb` to scrape additional data or update existing data.
+- **Model Training:** Explore different machine learning algorithms in `eplPredict.ipynb`.
+- **Prediction:** Use `eplPredict.ipynb` to predict match outcomes based on current season data.
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Data sourced from [fbref.com](https://fbref.com/)
-- Inspiration and initial project structure from [Dhandeep10](https://github.com/Dhandeep10)
 
