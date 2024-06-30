@@ -23,14 +23,10 @@ To run the project locally, follow these steps:
    ```
 
 2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+
 
 3. Run the prediction script:
-   ```
-   python predict.py
-   ```
+
 
 ## Usage
 
