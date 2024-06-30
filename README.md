@@ -1,7 +1,3 @@
-Sure, here's a README file template for your project:
-
----
-
 # English Premier League Prediction (EPL Prediction)
 
 This project aims to predict English Premier League (EPL) football match outcomes using data scraped from fbref.com.
@@ -55,6 +51,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Data sourced from [fbref.com](https://fbref.com/)
 - Inspiration and initial project structure from [Dhandeep10](https://github.com/Dhandeep10)
 
----
-
-Feel free to customize this template further based on additional details or specific features of your project.
